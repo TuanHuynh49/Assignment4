@@ -1,0 +1,8 @@
+com\mycompany\assignment3\resources\JakartaEE11Resource.class
+murach\business\Song.class
+murach\data\UserIO.class
+murach\business\Product.class
+murach\download\DownloadServlet.class
+murach\util\CookieUtil.class
+murach\business\User.class
+com\mycompany\assignment3\JakartaRestConfiguration.class

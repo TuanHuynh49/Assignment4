@@ -1,0 +1,3 @@
+johnsmith@hotmail.com|John|Smith
+andrea@murach.com|Andrea|Steel
+tuannv@example.com|Tuan|Nguyen
