@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  music-store:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: murach-music-store
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

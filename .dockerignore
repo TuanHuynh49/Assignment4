@@ -1,0 +1,13 @@
+target/
+.git
+.gitignore
+.dockerignore
+.idea/
+.vscode/
+*.iml
+*.log
+Dockerfile
+docker-compose.yml
+README.md
+nbproject/private/
+nb-configuration.xml
